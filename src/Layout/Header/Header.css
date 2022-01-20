@@ -1,0 +1,12 @@
+.logo{
+        width:100px;
+        height: 100%;
+        overflow: hidden;
+       margin-left: -100px;
+        }
+        .side{
+            margin-right: -100px;
+        }
+        .active{
+            border-bottom: 1px solid #fff;
+        }

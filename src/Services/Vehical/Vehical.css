@@ -1,0 +1,18 @@
+.vpic{
+    height:350px;
+}
+.subCard1{
+        width:80vh;
+        height:800px;
+        margin-left:70px;
+}
+.details{
+        background:linear-gradient(blue,purple);
+        color: white;  
+        height: auto;
+        width: 100%;
+        border-radius: 15px;
+}
+.details1{
+    color: white;
+}

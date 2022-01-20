@@ -1,0 +1,65 @@
+{
+    "Services":[
+        {
+        "service_id":"s1",
+        "service_name":"Ambulance Service",
+        "service_image":"../../../Images/Ambul/Pat/5c.jpg",
+        "service_description":"The transportation of an ill, injured, or disabled individual in an ambulance and, in connection with, the administration of prehospital medical or emergency care, if necessary.",
+        "sub_service":[{
+            "sub_id":"s11",
+            "sub_name":"Advanced Life Support Service",
+            "sub_image1":"../../../Images/Ambul/Pat/Als/als.png",
+            "price":"",
+            "sub_description":"A Large vehicle, Advanced Life Support is used for critical patients who require high level of care,cardiac monitor and/or ventilator during transport. The Ambulance consists of an array of ICU equipment. It has an in-built ventilator with oxygen cylinder, BP monitor, and specialized medication required."
+        },
+        {
+            "sub_id":"s12",
+            "sub_name":"Basic Life Support Service",
+            "sub_image1":"../../../Images/Ambul/Pat/Bls/bls.png",
+            "price":"",
+            "sub_description":"Basic Life support is a large van with important and basic medical equipment. However, is not for critical patients and long durations.Patient who are non ambulatory, bed confined,do not require cardiac monitoring and are in a non life threating condtion."
+        },
+        {
+            "sub_id":"s13",
+            "sub_name":"Patient Transport Service",
+            "sub_image1":"../../../Images/Ambul/Pat/Pls/ptv.png",
+            "price":"",
+            "sub_description":"The Patient Transport Service Vehicle is used to transfer non-critical patients from one place to another It is equipped with a stretcher as well."
+        },
+        {
+            "sub_id":"s14",
+            "sub_name":"Infectious Diseases Transport Service",
+            "sub_image1":"../../../Images/Ambul/Pat/ILs/ils.jpg",
+            "price":"",
+            "sub_description":"The Infectious Diseases Transport Service Vehicle is used to transfer non-critical/critical patients with Infectious Diseases from one place to another, It is equipped with a stretcher as well."
+        }
+    ]
+    },
+    {
+        "service_id":"s2",
+        "service_name":"Hearse van Service",
+        "service_image":"../../../Images/Ambul/Die/mar.jpg",
+        "service_description":"Service use which provides services including but not limited to the preparation of the dead for burial or cremation, viewing of the body, and funerals.",
+        "sub_service":[{
+            "sub_id":"s21",
+            "sub_name":"AC Hearse Van",
+            "sub_image1":"../../../Images/Ambul/Die/AC/pr.jpeg",
+            "price":"",
+            "sub_description":"AC Hearse van on hire dead body transportation by road air ambulance mortuary van service dead body freezer box rental mortuary van service body freezer."
+        },
+        {
+            "sub_id":"s22",
+            "sub_name":"Non AC Hearse Van",
+            "sub_image1":"../../../Images/Ambul/Die/Non/he.jpg",
+            "price":"",
+            "sub_description":"Non-Ac Hearse van services for carrying dead body which is equipped with first aid kit and skilled workman with a sense of social responsibility."
+        },
+        {
+            "sub_id":"s23",
+            "sub_name":"Infectious Diseases Hearse Van",
+            "sub_image1":"../../../Images/Ambul/Die/Inf/cremation.jpg",
+            "price":"",
+            "sub_description":"Infectious Diseases Hearse van services for carrying dead body which is Infectious Diseases which is equipped with first aid kit and skilled workman with a sense of social responsibility."
+        }]
+    }]
+}

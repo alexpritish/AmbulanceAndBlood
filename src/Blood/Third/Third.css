@@ -1,0 +1,10 @@
+.btnb{
+    background:linear-gradient(blue,purple);
+    color: white;  
+    height: auto;
+    width: 20%;
+    border-radius: 15px;
+}
+.btnb1{
+    color: white;
+}

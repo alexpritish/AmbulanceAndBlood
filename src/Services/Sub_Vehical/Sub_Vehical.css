@@ -1,0 +1,20 @@
+.subCard2{
+    width:120rem;
+    margin-left:100px;
+    height:500px;
+    margin-bottom: 40px;
+    
+}
+.enquiry{
+    background:linear-gradient(blue,purple);
+    color: white;  
+    height: auto;
+    width: 100%;
+    border-radius: 15px;
+}
+.enquiry1{
+    color: white;
+}
+.card {
+    width: 350px!important;
+}

@@ -1,0 +1,199 @@
+.myabout{
+    background: url(2about.jpg) no-repeat left;
+    background-size: 55%;
+    background-color: -webkit-repeating-linear-gradient(-45deg, #71b7e6, #69a6ce, #b98acc, #ee8176, #b98acc, #69a6ce, #9b59b6);
+    overflow: hidden;
+    padding: 100px 0;
+    /* margin-top:20px; */
+}
+.inner-section{
+    width: 55%;
+    float: right;
+    background-color: white;
+    padding: 140px;
+    box-shadow: 13px 12px 8px rgba(0,0,0,0.3);
+    margin-right: 5px;
+    margin-left:10px;
+}
+.inner-section h1{
+    margin-bottom: 30px;
+    font-size: 45px;
+    font-weight: 1000;
+    text-transform: uppercase;
+    background: -webkit-linear-gradient(right, #b9e456, #9f01ea, #56d8e4, #9f01ea);
+    background-clip: text;
+    -webkit-text-fill-color: transparent; 
+  
+}
+.text{
+    font-size: 15px;
+    background: -webkit-linear-gradient(  #0c5a02, #c70313);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    line-height: 30px;
+    text-align: justify;
+    margin-bottom: 40px;
+}
+.skills button{
+    font-size: 22px;
+    text-align: center;
+    /* letter-spacing: 2px; */
+    border: none;
+    border-radius: 20px;
+    padding: 4px;
+    width: 180px;
+    background-color: #111e96;
+    color: white;
+    cursor: pointer;
+}
+.skills button:hover{
+    transition: 1s;
+    background-color: #ecf5f5;
+    color: #00999c;
+}
+@media screen and (max-width:1200px){
+    .inner-section{
+        padding: 80px;
+    }
+}
+@media screen and (max-width:1000px){
+    .about{
+        background-size: 100%;
+        padding: 100px 40px;
+    }
+    .inner-section{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:600px){
+    .about{
+        padding: 0;
+    }
+    .inner-section{
+        padding: 60px;
+    }
+    .skills button{
+        font-size: 19px;
+        padding: 5px;
+        width: 160px;
+    }
+}
+/* second part */
+
+.acontainer{
+width: 90%;
+padding:60px;
+background-size: cover;
+background:white;
+}
+
+.about-us{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	flex-direction: column;
+    padding:0;
+    background: -webkit-linear-gradient(right, #56d8e4, #9f01ea, #56d8e4, #9f01ea);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.who-we-are{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.who-we-are span{
+	width: 60%;
+	align-items: center;
+text-align: center;
+}
+.hcards{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin:10px;
+	flex-wrap: wrap;
+}
+.hcard-img{
+	border-radius: 5px;
+}
+.hcards .hcard{
+	width: 14rem;
+	margin: 20px;
+}
+.hcard p{
+	font-size: 14px;
+}
+
+
+.hcard-img1{
+	width: 100%;
+	height: 12rem;
+	background-image: url('01.jpg');
+	background-size: cover;
+	background-position: center center;
+}
+.hcard-img2{
+	width: 100%;
+	height: 12rem;
+	background-image: url('02.jpg');
+	background-size: cover;
+	background-position: center center;
+}
+.hcard-img3{
+	width: 100%;
+	height: 12rem;
+	background-image: url('03.jpg');
+	background-size: cover;
+	background-position: center center;
+}
+.hcard-img4{
+	width: 100%;
+	height: 12rem;
+	background-image: url('04.jpg');
+	background-size: cover;
+	background-position: center center;
+}
+
+.hcard-img5{
+	width: 100%;
+	height: 12rem;
+	background-image: url('05.jpg');
+	background-size: cover;
+	background-position: center center;
+}
+
+/* part3 */
+
+.inner-section2{
+    width: 55%;
+    float: right;
+    background-color: rgb(247, 205, 151);
+    padding: 80px;
+    box-shadow: 13px 12px 8px rgba(0,0,0,0.3);
+    margin-right: 5px;
+    margin-left:10px;
+}
+
+.reachus{
+    background: url(map3.jpg) no-repeat left;
+    background-size: 55%;
+    background-color: -webkit-repeating-linear-gradient(-45deg, #71b7e6, #69a6ce, #b98acc, #ee8176, #b98acc, #69a6ce, #9b59b6);
+    overflow: hidden;
+    padding: 100px 0;
+    /* margin-top:20px; */
+}
+
+.inner-section2 h1{
+    margin-bottom: 30px;
+    font-size: 45px;
+    font-weight: 1000;
+    text-transform: uppercase;
+    background: -webkit-linear-gradient(right, #b9e456, #9f01ea, #56d8e4, #9f01ea);
+    background-clip: text;
+    -webkit-text-fill-color: transparent; 
+  
+}

@@ -1,0 +1,31 @@
+.myauth{
+    padding: 40px;
+    padding-top: 30px;
+    margin:auto;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    width: 70%;
+    height:auto;
+    background: white;
+    border-radius: 20px;
+    text-align: center;
+  }
+  .patc{
+    margin-top: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 35px;
+    font-weight: 600;
+    background: -webkit-linear-gradient(left, #252525, #9f01ea, #56d8e4, #9f01ea);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  
+}
+.tolog{
+    margin-top: 20px;
+    background:linear-gradient(blue,purple);
+    color: white;  
+    height: auto;
+    width:30%;
+    border-radius: 15px;
+}

@@ -1,0 +1,71 @@
+{
+    "blood":[
+        {
+        "blood_id":"b1",
+        "service_name":"Donate blood",
+        "service_image":"../../../Images/Blood/Donate/don.jpg",
+        "service_description":"Today in the developed world, most blood donors are unpaid volunteers who donate blood for a community supply.",
+        "service_topic":[{
+            "sub_id":"b11",
+            "sub_name":"Positive Blood Groups",
+            "sub_image1":"../../../Images/Blood/Donate/Positive/apos.jpg",
+            "A":"A",
+            "B":"B",
+            "O":"O",
+            "AB":"AB",
+            "PA":"Percentage of People-30",
+            "PB":"Percentage of People-9",
+            "PO":"Percentage of People-39",
+            "PAB":"Percentage of People-4",
+            "sub_description":"If your blood is A positive (A+), it means that your blood contains type-A antigens with the presence of a protein called the rhesus (Rh) factor. Antigens are markers on the surface of a blood cell. According to the American Red Cross, this is one of the most common blood types."
+        },
+        {
+            "sub_id":"b12",
+            "sub_name":"Negative Blood Groups",
+            "sub_image1":"../../../Images/Blood/Donate/Negative/abos.png",
+            "A":"A",
+            "B":"B",
+            "O":"O",
+            "AB":"AB",
+            "PA":"Percentage of People-6",
+            "PB":"Percentage of People-2",
+            "PO":"Percentage of People-9",
+            "PAB":"Percentage of People-1" ,
+            "sub_description":"Almost anyone with any blood type can receive these red blood cells. A person with group O negative blood is a universal donor. A person with O-negative blood can donate to almost anyone."
+        }]
+    },
+    {
+        "blood_id":"b2",
+        "service_name":"Request Blood",
+        "service_image":"../../../Images/Blood/Receive/wir.jpg",
+        "service_description":"Find your suitable blood what you need and get it from a donor or our blood bank.",
+        "service_topic":[{
+            "sub_id":"b21",
+            "sub_name":"Positive blood groups",
+            "sub_image1":"../../../Images/Blood/Receive/Positive/ima.jpg",
+            "A":"A",
+            "B":"B",
+            "O":"O",
+            "AB":"AB",
+            "PA":"Percentage of People-30",
+            "PB":"Percentage of People-9",
+            "PO":"Percentage of People-39",  
+            "PAB":"Percentage of People-4",          
+            "sub_description":"If your blood is A positive (A+), it means that your blood contains type-A antigens with the presence of a protein called the rhesus (Rh) factor. Antigens are markers on the surface of a blood cell. According to the American Red Cross, this is one of the most common blood types."
+        },
+        {
+            "sub_id":"b22",
+            "sub_name":"Negative blood groups",
+            "sub_image1":"../../../Images/Blood/Receive/Negative/ima.png",
+            "A":"A",
+            "B":"B",
+            "O":"O",
+            "AB":"AB",
+            "PA":"Percentage of People-6",
+            "PB":"Percentage of People-2",
+            "PO":"Percentage of People-9",
+            "PAB":"Percentage of People-1",
+            "sub_description":"Almost anyone with any blood type can receive these red blood cells. A person with group O negative blood is a universal donor. A person with O-negative blood can donate to almost anyone."
+        }]
+    }]
+}

@@ -1,0 +1,68 @@
+.eml1{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    background: -webkit-linear-gradient(right, #56d8e4, #9f01ea, #56d8e4, #9f01ea);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.pwd1{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    background: -webkit-linear-gradient(right, #252525, #9f01ea, #56d8e4, #9f01ea);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.mylogin{
+  padding: 40px;
+  padding-top: 30px;
+  margin:auto;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  width: 60%;
+  height:auto;
+  background: white;
+  border-radius: 20px;
+  text-align: center;
+}
+.logsd{
+    margin-top: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 45px;
+    font-weight: 600;
+    background: -webkit-linear-gradient(right, #b9e456, #9f01ea, #56d8e4, #9f01ea);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  
+}
+.lemal{
+    width:20px;
+}
+h6{
+    font-size: small;
+    font-weight: 22;
+    margin-top: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 600;
+    background: -webkit-linear-gradient(right, #b9e456, #9f01ea, #56d8e4, #9f01ea);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.rocky{
+    font-size: small;
+    font-weight: 22;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    background: -webkit-linear-gradient(right, #b9e456, #9f01ea, #56d8e4, #9f01ea);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+  
+  
